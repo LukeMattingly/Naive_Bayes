@@ -1,0 +1,1 @@
+This is a Naive Bayes Text Classifier for predicting news posts to see if they are about Hockey or Baseball. 
